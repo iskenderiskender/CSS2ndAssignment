@@ -1,0 +1,84 @@
+.img{
+    margin: auto;
+    width: 351px;
+    margin-bottom: 0;
+}
+
+.fbox{
+    width: auto;
+    text-align: center;
+    margin-top: -20px;
+    margin-left: 75px;
+    margin-right: 75px;
+    background-color:rgb(238, 238, 238) ;
+}
+
+
+.fbox p{
+    margin-bottom: 0;
+}
+
+.fbox input{
+    padding: 0 70px;
+}
+
+.section{
+    margin: auto;
+    width: fit-content;
+    margin-top: 2px;
+}
+
+.section a:visited{
+    color: darkblue
+}
+
+.cont1{
+    background-color:rgb(126, 229, 218) ;
+    float: left;
+    padding-left: 200px;
+    padding-right: 200px;
+    margin-right: 2px;
+    text-align: center;
+    height: 80px;
+}
+
+.cont1 a{
+    margin-bottom: 0px;
+}
+
+.cont2{
+    background-color: rgb(112, 204, 194) ;
+    float: left;
+    text-align: center;
+    margin-right: 2px;
+    height: 70px;
+    font-size: 13px;
+    padding-left: 105px;
+    padding-right: 104px;
+    padding-top:10px;
+}
+
+.cont3{
+    background-color: rgb(98, 179, 170);
+    float: left;
+    padding-left: 200px;
+    padding-right: 200px;
+    font-size: 13px;
+    text-align: center;
+    height: 80px;
+}
+
+.cont3 p{
+    margin-top: 0;
+    margin-bottom: 0;
+}
+
+
+
+.footer{
+    clear: left;
+    text-align: center;
+    margin-top: 100px;
+    font-size: 13px;
+}
+
